@@ -1,0 +1,10 @@
+sql.normalized/01.sql fail
+sql.normalized/02.sql fail
+sql.normalized/03.sql fail
+sql.normalized/04.sql fail
+sql.normalized/05.sql fail
+2
+
+real	0m1.469s
+user	0m0.698s
+sys	0m0.370s
